@@ -16,7 +16,7 @@ Una vez crees la aplicación en lenguaje ensamblador y funcione, debes traducirl
 
 ## Traduccion a C++
 
-.. cpp 
+```cpp 
 
   while (true)
   {
