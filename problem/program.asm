@@ -1,4 +1,4 @@
-(START)			// while (true)
+(START)		        // while (true)
 	@KBD
 	D=M
 	@FILLORCLEAR	// if (kbd != 0)
