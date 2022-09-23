@@ -16,6 +16,8 @@ Una vez crees la aplicación en lenguaje ensamblador y funcione, debes traducirl
 
 ## Traduccion a C++
 
+.. cpp 
+
   while (true)
   {
       if (MEMORY[KEYBOARD] != 0)
@@ -39,6 +41,7 @@ Una vez crees la aplicación en lenguaje ensamblador y funcione, debes traducirl
           }
       }
   }
+  
   
 ## Explicación del código
 - Se inicializa un ciclo "while" para leer el teclado.
